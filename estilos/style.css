@@ -61,3 +61,11 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
+
+div.campo {
+    text-align: left;
+    font-size: 0.8em;
+    padding-top: 10px;
+    border-radius: solid black;
+}
+
