@@ -45,22 +45,23 @@ Grandes telas: acima de 1200px
     }
 
     section#login > div#imagem {
-        float: left;
-        width: 40%;
+        float: right;
+        width: 50%;
         height: 100%;
     }
 
-    div#formulario > p {
-        position: absolute;
-        top: 10%;
-        left: 41%;
-        
+    section#login > div#formulario {
+
+        float: left;
+        width: 50%;
     }
+    
 
     div#formulario > h1 {
-        position: absolute;
-        top: 2%;
-        left: 41%;
-        
+        font-size: 2em;
+    }
+
+    div#formulario > p {
+        font-size: 1.1em;
     }
 }
